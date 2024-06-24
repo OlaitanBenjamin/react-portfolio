@@ -1,29 +1,41 @@
 [
   {
-    "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
+    "role": "Software Product Manager",
+    "organisation": "21st Century",
+    "startDate": "May, 2022",
     "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-    "imageSrc": "history/google.png"
+    "experiences": ["Web Developer", "IT Support"],
+    "imageSrc": "history/21st.jpeg"
   },
   {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
-    "imageSrc": "history/microsoft.png"
+    "role": "Frontend Developer",
+    "organisation": "Univelcity",
+    "startDate": "Mar, 2022",
+    "endDate": "June, 2022",
+    "experiences": ["Web Developer"],
+    "imageSrc": "history/univelcity.jpeg"
   },
   {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
+    "role": "Web Developer",
+    "organisation": "Landmark Africa",
+    "startDate": "June, 2022",
+    "endDate": "Jun, 2022",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "Frontend Web Developer",
+      "Network & System Admin",
+      "IT Support"
     ],
-    "imageSrc": "history/netflix.png"
+    "imageSrc": "history/lm.png"
+  },
+  {
+    "role": "IT Personnel (Intern)",
+    "organisation": "Landmark Africa",
+    "startDate": "June, 2017",
+    "endDate": "Jun, 2018",
+    "experiences": [
+      "IT Project Supervision",
+      "General IT Support"
+    ],
+    "imageSrc": "history/lm.png"
   }
 ]
