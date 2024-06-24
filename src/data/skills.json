@@ -12,16 +12,20 @@
     "imageSrc": "skills/react.png"
   },
   {
-    "title": "Node",
-    "imageSrc": "skills/node.png"
+    "title": "WordPress",
+    "imageSrc": "skills/wp.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "title": "PHP",
+    "imageSrc": "skills/php.png"
   },
   {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
+    "title": "JavaScript",
+    "imageSrc": "skills/js.png"
+  },
+  {
+    "title": "Wix",
+    "imageSrc": "skills/wix.png"
   },
   {
     "title": "Figma",
