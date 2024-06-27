@@ -1,82 +1,90 @@
 [
   {
-    "title": "Project 1",
+    "title": "Sisi HR",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "HR and Recruitment website",
+    "skills": ["PHP", "HTML", "Javascript", "CSS"],
+    "demo": "https://www.sisihr.com.ng/",
+    "source": "https://www.sisihr.com.ng/"
   },
   {
-    "title": "Project 2",
+    "title": "Bad Habit Clothing",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "E-commerce website for a clothing line",
+    "skills": ["Wordpress", "e-Commerce"],
+    "demo": "https://badhabitclothing.com/",
+    "source": "https://badhabitclothing.com/"
   },
   {
-    "title": "Project 3",
+    "title": "Jumoke Lagos",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is an e-Commerce jewellery website.",
+    "skills": ["Wix", "e-Commerce"],
+    "demo": "https://www.jumokelagos.com/",
+    "source": "https://www.jumokelagos.com/"
   },
   {
-    "title": "Project 4",
+    "title": "The Landmark Beach",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is an informational and tickets booking website.",
+    "skills": ["PHP", "Laravel", "CSS", "HTML", "Javascript"],
+    "demo": "https://landmarkbeach.ng/",
+    "source": "https://landmarkbeach.ng/"
   },
   {
-    "title": "Project 5",
+    "title": "The Hospitality Institute",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is an informational, application and enquiry website.",
+    "skills": ["PHP", "Laravel", "CSS", "HTML", "Javascript"],
+    "demo": "https://thi-ng.org/",
+    "source": "https://thi-ng.org/"
   },
   {
-    "title": "Project 6",
+    "title": "Gas Exchange (GeXNG)",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is an informational and enquiry website on Gas Exchange.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://gexng.com/",
+    "source": "https://gexng.com/"
   },
   {
-    "title": "Project 7",
+    "title": "Wash Central",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is an informational and enquiry website on Laundry packages.",
+    "skills": ["PHP", "HTML", "CSS", "Javascript"],
+    "demo": "https://washcentral.ng/",
+    "source": "https://washcentral.ng/"
   },
   {
-    "title": "Project 8",
+    "title": "UltraSports NG",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "E-commerce website for sport wears.",
+    "skills": ["Wordpress", "e-Commerce"],
+    "demo": "https://ultrasports.ng/",
+    "source": "https://ultrasports.ng/"
   },
   {
-    "title": "Project 9",
+    "title": "The Landmark Waterview Apartments",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is an informational, payment application and enquiry website.",
+    "skills": ["Laravel", "PHP", "HTML", "CSS", "Javascript"],
+    "demo": "https://landmarkwaterview.com/",
+    "source": "https://landmarkwaterview.com/"
   },
   {
-    "title": "Project 10",
+    "title": "Unveiling Africa Foundation",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is an informational and enquiry website.",
+    "skills": ["Wordpress"],
+    "demo": "https://unveilingafrica.org/",
+    "source": "https://unveilingafrica.org/"
+  },
+  {
+    "title": "Landmark Centre, Owerri",
+    "imageSrc": "projects/project.png",
+    "description": "This is an informational and enquiry website.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "http://www.landmarkowerri.com/",
+    "source": "http://www.landmarkowerri.com/"
   }
 ]

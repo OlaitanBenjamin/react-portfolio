@@ -12,7 +12,7 @@ export const Hero = () => {
           I'm an IT Specialist and Frontend Developer with over 6 years of experience using PHP, HTML, CSS,  Javascript, React, Wordpress and Wix. Also, I provide any IT solutions other than web development. Kindly reach out if you'd like to learn more!
         </p>
         <a href="mailto:adeniyi_benjamin@yahoo.com" className={styles.contactBtn}>
-          Contact Me
+          Request Service
         </a>
       </div>
       <img
