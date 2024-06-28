@@ -10,37 +10,43 @@ export const About = () => {
       <div className={styles.content}>
         <img
           src={getImageUrl("about/full.png")}
-          alt="Me sitting with a laptop"
+          alt="My full avatar"
           className={styles.aboutImage}
         />
         <ul className={styles.aboutItems}>
-          <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
+        <li className={styles.aboutItem}>
+            <img src={getImageUrl("about/cursorIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
+              <h3>The Beginning</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+              I started my IT career in 2017 with Africa's largest business, leisure and lifestyle destination <a href="https://www.landmarkafrica.com/" className={styles.landmark} target="_blank">Landmark Africa Group</a>.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
+            <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
+              <h3>Developer</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+              Information Technology Specialist, Wix & Wordpress Web Developer and also a Drone Pilot. Based in Lagos, Nigeria and available to work remotely (full time).
+              </p>
+            </div>
+          </li>
+          <li className={styles.aboutItem}>
+            <img src={getImageUrl("about/cursorIcon.png")} alt="Server icon" />
+            <div className={styles.aboutItemText}>
+              <h3>Solution Provider</h3>
+              <p>
+              I am a solution provider, result driven and passionate about building excellent softwares and websites with ease of use and accessibility.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>Enterpreneur</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+              Ben is currently the CEO of Divs and Plugins Technology (DAPT), where we provide all IT solutions ranging from Starlink Installations, Fiber Optics/radio installation for internet, CCTV cameras, Intercoms, Access Controls, Office365 Admin Management and Network configuration.
               </p>
             </div>
           </li>

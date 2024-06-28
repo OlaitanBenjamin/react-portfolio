@@ -66,6 +66,14 @@
   font-size: 25px;
 }
 
+.landmark {
+  color: var(--color-text);
+  text-decoration: none;
+  font-size: 30px;
+  font-weight: 400;
+  letter-spacing: 1.5px;
+}
+
 @media screen and (max-width: 830px) {
   .container {
     background-color: transparent;
