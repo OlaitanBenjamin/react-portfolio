@@ -50,6 +50,13 @@
   justify-content: space-around;
 }
 
+/* .links:hover {
+  width: 100%;
+  margin-top: 26px;
+  display: flex;
+  justify-content: space-around;
+} */
+
 .link {
   text-decoration: none;
   color: var(--color-text);
@@ -57,5 +64,15 @@
   font-weight: 600;
   border-radius: 100px;
   background: var(--color-primary);
+  padding: 1px 22px;
+}
+
+.link:hover {
+  text-decoration: none;
+  color: var(--color-text);
+  font-size: 30px;
+  font-weight: 600;
+  border-radius: 100px;
+  background: var(--color-secondary);
   padding: 1px 22px;
 }
